@@ -71,8 +71,10 @@ Webcam Look-Alike Mode
 
 
 The system detects your face live and predicts the most similar sports celebrity.
+
 Image Upload Mode
-<img width="936" height="580" alt="Screenshot 2025-12-11 193554" src="https://github.com/user-attachments/assets/42b97b2c-e4c2-47c3-ba68-9c6739d7fd10" />
+<img width="327" height="303" alt="Screenshot 2025-12-11 193554" src="https://github.com/user-attachments/assets/a1c82c10-8df1-4326-ad2e-e85bdc26e031" />
+
 
 
 The UI displays:
